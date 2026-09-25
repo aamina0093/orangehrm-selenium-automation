@@ -1,1 +1,1 @@
-# orangehrm-test-automation
+# orangehrm-selenium-automation
